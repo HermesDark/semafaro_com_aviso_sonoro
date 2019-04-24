@@ -1,12 +1,9 @@
 Semáforo com aviso sonoro utilizando Placa Arduino UNO, Programação C e demais componentes!
 
-Esse projeto pode ser testando fazendo upload do código fonte a uma placa Arduino Uno, Mega e derivados seguindo imagem com esquema de ligação
-esse protótipo é funcional!
+Esse projeto pode ser testando fazendo upload do código fonte à uma placa Arduino Uno. Montando o esquema que pode ser seguido através da imagem do esquema de ligação, esse protótipo é funcional e foi apresentados em eventos na região de Sinop - MT.
 
 
-Quaisquer dúvidas estou a disposição!
-Mais sobre mim em acessando: 
-    emersonbock.dev
+
 
 
 
@@ -18,3 +15,6 @@ Orientador Professor Dr. Maicon Satin
 http://sinop.unemat.br/si/
 
 
+Quaisquer dúvidas estou a disposição!
+Mais sobre mim em acessando: 
+    emersonbock.dev
