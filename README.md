@@ -11,10 +11,10 @@ Esse projeto pode ser testando fazendo upload do código fonte à uma placa Ardu
 
 
 Projeto Realizado no Primeiro Semestre de Sistemas de Informação.
-Orientador Professor Dr. Maicon Satin
+Orientador Professor Dr. Maicon Sartin
 http://sinop.unemat.br/si/
 
 
 Quaisquer dúvidas estou a disposição!
 Mais sobre mim em acessando: 
-    emersonbock.dev
+    https://emersonbock.dev
